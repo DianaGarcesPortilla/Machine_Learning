@@ -1,5 +1,9 @@
-Aplicación de técnicas de aprendizaje supervisado y no supervisado sobre variables de turismo receptor para predecir el gasto turístico y/o 
-identificar perfiles de visitantes receptores a Santander - Colombia.
+Aplicación de técnicas de aprendizaje supervisado; modelo de regresión múltiple, modelo de regresión polinomial, KNN de regresión, Random Forest de regresión
+y técnica de aprendizaje no supervisado; K-prototype para el análisis de conglomerados con variables mixtas, sobre variables de turismo receptor para 
+predecir el gasto turístico y/o identificar perfiles de visitantes receptores a Santander-Colombia.
+
+Librerías scikit-learn para aprendizaje estadístico computacional, librerías de Seaborn y Matplotlib para visualización de datos, Lenguaje de programación Python, 
+entorno de trabajo Google Colab.
 
 https://github.com/DianaGarcesPortilla/Machine_Learning/blob/main/Aprendizaje_estad%C3%ADstico_computacional.ipynb
 
